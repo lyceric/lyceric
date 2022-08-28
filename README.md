@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyceric
 - 👀 I’m interested in building web application
-- 🌱 I’m currently learning hybrid cms to building web app
+- 🌱 I’m currently learning to building web app
 - 💞️ I’m looking to collaborate on buiding web app
 - 📫 Reach me by my email ="limyuenchun99@gmail.com"
 
